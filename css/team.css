@@ -1,0 +1,84 @@
+.post-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  text-align: center;
+  color: #2e2f42;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  margin-bottom: 72px;
+}
+.team-wrapper {
+  display: flex;
+align-items: flex-start;
+justify-content: flex-start;
+gap:24px;
+}
+.titl-name {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  margin-bottom: 8px;
+}
+.post {
+  padding: 120px 0;
+  background: #f4f4fd;
+}
+
+.text-post {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+}
+.people {
+width: 264px;
+}
+.item {
+  display: block;
+  border-radius: 0 0 4px 4px;
+}
+.card-name {
+padding: 32px 16px;
+}
+/*
+.images .img{
+    display: block;
+
+}
+/*
+.image-grid {
+  display: grid; 
+  grid-template-columns: repeat(4, 1fr); 
+  gap: 24px; 
+  max-width: 1158px; 
+  margin: 0 auto;
+}
+
+.image-grid img {
+  display: block; 
+  width: 100%; 
+  height: auto; 
+  object-fit: cover; 
+}
+  */
+/*
+.images {
+  display: grid;
+  border-radius: 0 0 4px 4px;
+width: 264px;
+height: 380px;
+}
+*/
+/*
+.images img {
+  display: block;
+  width: calc((100% - 72px) / 4);
+}

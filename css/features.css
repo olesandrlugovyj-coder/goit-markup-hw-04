@@ -1,0 +1,38 @@
+.groups{
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+list-style-type: none;
+text-align: left;
+margin-bottom: 8px;
+}
+
+.title-featur {
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.4;
+color: #2e2f42;
+padding: 120px 0;
+}
+
+
+.text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+color: #434455;
+text-align: left;
+letter-spacing: 0.02em;
+}
+.text-columns {
+  display: flex;
+  gap: 24px;
+  padding: 0 15px;
+}
+.text-columns-list {
+width: 264px;
+}

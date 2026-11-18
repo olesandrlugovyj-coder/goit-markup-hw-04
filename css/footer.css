@@ -1,0 +1,42 @@
+.logo-basement {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.33333;
+  letter-spacing: 0.03em;
+  text-transform: none;
+  color: #f4f4fd;
+  text-decoration: none;
+}
+
+.logo-basement span {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.33333;
+  letter-spacing: 0.03em;
+  color: #4d5ae5;
+  text-decoration: none;
+}
+.titl-basement {
+  align-items: flex-start;
+justify-content: flex-start;
+flex-direction: column;
+  padding: 100px 141px;
+  background: #2e2f42;
+  text-decoration: none;
+}
+/*
+.basement-wrapper {
+
+}*/
+.text-basement {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+  max-width: 264px;
+  padding-top: 16px;
+}
